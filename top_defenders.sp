@@ -66,9 +66,9 @@ public Plugin myinfo =
 {
 	name = "[ZR] 伤害/感染排行", 
 	author = "xiaodo", 
-	description = "显示伤害/感染排行", 
+	description = "显示本局伤害/感染排行/帽子菜单", 
 	version = "1.0", 
-	url = "QQ群725354886"
+	url = "QQ: 1079114958"
 }
 
 public APLRes AskPluginLoad2(Handle myself, bool late, char[] error, int err_max)
